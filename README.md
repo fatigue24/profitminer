@@ -1,4 +1,4 @@
-# Fastest GPU Miner for XELIS
+# Fast GPU Miner for XELIS
 
 Currently, this miner is only compatible with CUDA-capable devices. An OpenCL version is in progress. The developer fee is approximately 8%.
 
